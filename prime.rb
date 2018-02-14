@@ -8,4 +8,4 @@ def prime?(number)
   end
 end
 
-prime?(123)
+puts prime?(123)
