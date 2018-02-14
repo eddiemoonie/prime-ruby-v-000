@@ -8,5 +8,5 @@ def prime?(number)
   end
 end
 
-number = get.chomp
+number = gets.chomp
 prime?()
